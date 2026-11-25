@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "titulo": "El Padrino",
+    "director": "Francis Ford Coppola",
+    "anio": 1972,
+    "vista": true
+  },
+  {
+    "id": 2,
+    "titulo": "Pulp Fiction",
+    "director": "Quentin Tarantino",
+    "anio": 1994,
+    "vista": true
+  },
+  {
+    "id": 3,
+    "titulo": "El Viaje de Chihiro",
+    "director": "Hayao Miyazaki",
+    "anio": 2001,
+    "vista": true
+  },
+  {
+    "id": 4,
+    "titulo": "Interstellar",
+    "director": "Christopher Nolan",
+    "anio": 2014,
+    "vista": false
+  },
+  {
+    "id": 5,
+    "titulo": "Parásitos",
+    "director": "Bong Joon-ho",
+    "anio": 2019,
+    "vista": false
+  }
+]
